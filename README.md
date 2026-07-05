@@ -30,9 +30,9 @@ Experienced IT professional transitioning from traditional Networking (**CCNA/CC
 ---
 
 ### 📂 Top Repositories
-*   **[AWS-Cloud-Projects]:** Scalable architecture designs and AI integrations.
-*   **[Python-Networking-Scripts]:** Automation scripts for network management.
-*   **[Linux-Labs]:** Security and configuration setups on Ubuntu/Kali.
+*   **AWS-Cloud-Projects:** Scalable architecture designs and AI integrations.
+*   **Python-Networking-Scripts:** Automation scripts for network management.
+*   **Linux-Labs:** Security and configuration setups on Ubuntu/Kali.
 
 ---
 
