@@ -28,9 +28,9 @@ Experienced IT professional with a solid foundation in Enterprise Networking (CC
 🤖 Featured AI Applications (AWS PartyRock Live Demos)
 
 *   **Multilingual Technical Assistant:** A custom GenAI tool engineered for seamless technical translation, documentation assistance, and automated code generation across multiple languages. 
-    👉 [Launch Live App] (https://partyrock.aws/u/Gulsaher/_7MckWH1m/The-Universal-Pilgrim-Guide)
+    👉 [Launch Live App](https://partyrock.aws/u/Gulsaher/_7MckWH1m/The-Universal-Pilgrim-Guide)
 *   **Network Planning & Configuration Master:** An AI-driven planning application that automatically generates baseline site configurations, subnet allocations, and architectural parameters based on dynamic user input. 
-    👉 [Launch Live App] (https://partyrock.aws/u/Gulsaher/b5jqxaCoY/Network-Master-Planner)
+    👉 [Launch Live App](https://partyrock.aws/u/Gulsaher/b5jqxaCoY/Network-Master-Planner)
 
 📈 Current Projects & Focus
 
