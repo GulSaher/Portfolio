@@ -12,31 +12,44 @@ Experienced IT professional transitioning from traditional Networking (**CCNA/CC
 *   **Programming & OS:** Python (Certified), Ubuntu Linux, Kali Linux, Virtualization (VirtualBox).
 *   **Automation:** Infrastructure as Code (IaC), Python-based Network & Cloud Automation.
 
----
+---Hi there, I'm Gul Saher 👋
 
-### 📈 Current Projects & Focus
-- 🏗️ **AWS Infrastructure:** Building & managing scalable cloud solutions on Fiverr.
-- 🤖 **GenAI Apps:** Developing custom Generative AI applications using AWS Bedrock.
-- 🐍 **Python for Networking:** Automating complex network tasks (Cisco NetAcad Certified).
-- 📚 **Certification:** Revising **CCNP** & preparing for **CCNA 200-301 v1.1**.
+🚀 Network & Cloud Automation Engineer | GenAI Integration Specialist
 
----
+Experienced IT professional with a solid foundation in Enterprise Networking (CCNA/CCNP) combined with modern capabilities in Cloud Infrastructure and AI Automation. I specialize in building scalable AWS environments, automating tasks via Python, and deploying custom Generative AI tools.
 
-### 🏅 Accomplishments
-*   **Cisco Networking Academy:** Python Essentials 1 Badge.
-*   **Professional Seller:** Providing AWS & AI solutions on Fiverr.
-*   **Legacy Certification:** CCNA/CCNP certified since 2012.
+🛠️ Technical Toolkit
 
----
+*   **Cloud & AI:** AWS (EC2, S3, RDS, Bedrock, PartyRock), Generative AI Orchestration, Prompt Engineering.
+*   **Networking:** Cisco CCNA/CCNP Frameworks, Network Automation, Infrastructure Routing & Switching.
+*   **Programming & OS:** Python (Certified), Linux Administration (Ubuntu, Kali Linux), Virtualization (VirtualBox).
+*   **Automation:** Infrastructure as Code (IaC) principles, Python-based Automation Scripts.
 
-### 📂 Top Repositories
+🤖 Featured AI Applications (AWS PartyRock Live Demos)
+
+*   **Multilingual Technical Assistant:** A custom GenAI tool engineered for seamless technical translation, documentation assistance, and automated code generation across multiple languages. 
+    👉 Launch Live App https://partyrock.aws/u/Gulsaher/_7MckWH1m/The-Universal-Pilgrim-Guide
+*   **Network Planning & Configuration Master:** An AI-driven planning application that automatically generates baseline site configurations, subnet allocations, and architectural parameters based on dynamic user input. 
+    👉 Launch Live App https://partyrock.aws/u/Gulsaher/b5jqxaCoY/Network-Master-Planner
+
+📈 Current Projects & Focus
+
+*   🏗️ **Cloud Architectures:** Designing secure, production-ready AWS environments with optimized storage and compute.
+*   🐍 **Network Automation:** Developing Python-driven workflows to automate configuration, scanning, and management.
+*   📚 **Continuous Learning:** Actively preparing for the latest CCNA 200-301 v1.1 track and revising current CCNP methodologies.
+
+🏅 Accomplishments
+
+*   **Cisco Networking Academy:** Python Essentials 1 Badge, Linux Unhatched, and Cybersecurity Foundations.
+*   **Legacy Foundation:** Certified CCNA/CCNP Professional since 2012.
+
+📂 Top Repositories
 *   **AWS-Cloud-Projects:** Scalable architecture designs and AI integrations.
 *   **Python-Networking-Scripts:** Automation scripts for network management.
 *   **Linux-Labs:** Security and configuration setups on Ubuntu/Kali.
 
----
+📫 Let's Connect!
 
-### 📫 Let's Connect!
-- **LinkedIn:** [linkedin.com/in/gulsaher-ccnp](https://linkedin.com/in/gulsaher-ccnp)
-- **ORCID iD:** [orcid.org/0009-0009-8428-4322](https://orcid.org/0009-0009-8428-4322)
-- **Credly (Badges):** [View My Badges](https://www.credly.com/users/gul-saher)
+*   **LinkedIn:** [linkedin.com/in/gulsaher-ccnp](https://linkedin.com/in/gulsaher-ccnp)
+*   **Credly (Badges):** [View My Badges](credly.com/users/gul-saher/)
+*   **ORCID iD:** 0009-0009-8428-4322
